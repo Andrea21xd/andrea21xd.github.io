@@ -1,0 +1,35 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #333333;
+    color: ghostwhite;
+    // font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+
+
+    h1 {
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+
+    h2 {
+        text-align: center;
+        margin-bottom: 1.5rem;
+    }
+
+    p {
+        text-align: center;
+        color: blueviolet;
+        margin-bottom: 1rem;
+    }
+
+    a {
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+}
